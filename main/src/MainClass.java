@@ -5,4 +5,7 @@ public class MainClass {
     static void myMethod6 () {
 
     }
+    static void myMethod7 () {
+
+    }
 }
