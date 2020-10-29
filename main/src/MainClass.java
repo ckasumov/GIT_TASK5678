@@ -13,4 +13,13 @@ public class MainClass {
     static void myMethod5() {
 
     }
+    static void myMethod() {
+
+    }
+    static void myMethod2() {
+
+    }
+    static void myMethod3() {
+
+    }
 }
